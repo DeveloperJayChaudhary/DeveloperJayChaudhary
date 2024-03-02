@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeveloperJayChaudhary
-- 👀 I’m interested in Robotics Automation and UI design
-- 🌱 I’m currently learning Python with Ai automation 
-- 💞️ I’m looking to collaborate on for automation company or ui design 
+- 👋 Hi, I’m JayChaudhary
+- 👀 I’m interested in Data Science , Machine learning , Artifical Intelligence and Robotics Automation 
+- 🌱 I’m currently learning Machine learning and Artificial intelligence
+- 💞️ I’m looking for jobs in fields of Machine Learning and Artifical Intelligence 
 - 📫 How to reach me mail me on chau.jay.002@gmail.com
 
 <!---
